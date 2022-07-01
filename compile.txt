@@ -1,0 +1,1 @@
+g++ Parton_Lumi.cc -o Parton_Lumi -lgsl -lgslcblas `lhapdf-config --cflags --ldflags`
